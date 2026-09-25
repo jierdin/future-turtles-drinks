@@ -1,7 +1,8 @@
 # Future Turtles Cafe — Drinks & Bar Planning
 
-A free bar/cafe run by camp Future Turtles at Burning Man. No money changes
-hands. This repo is the planning and ops toolkit — the drink menu, the
+This is the template / tracking system / manu for
+a cafe run by the camp Future Turtles at Burning Man. 
+This repo is the planning and ops toolkit — the drink menu, the
 alcohol shopping math, and the bartender-facing checklist — rebuilt (not
 started from scratch) each year.
 
